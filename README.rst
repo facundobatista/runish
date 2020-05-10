@@ -3,7 +3,7 @@ What is runish?
 
 A Unicode name finder and characters explainer.
 
-Simple to use:
+Simple to use::
 
     $ runish umbrella
     ☂  UMBRELLA
